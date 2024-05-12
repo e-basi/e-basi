@@ -1,5 +1,3 @@
-# e-basi-
-
 <h1 align="center">Hi 👋, I'm Nicanor</h1>
 <h3 align="center">IT Trainee @ City Of Toronto | Computer Science Major @ TMU</h3>
 
