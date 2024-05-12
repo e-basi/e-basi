@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nicanor</h1>
 <h3 align="center">IT Trainee @ City Of Toronto | Computer Science Major @ TMU</h3>
 
-- 🔭 I’m currently working at **City Of Toronto**
+- 🔭 I’m currently looking  for  **Fall 2024 Internships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
