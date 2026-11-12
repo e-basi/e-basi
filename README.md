@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicanor</h1>
-<h3 align="center">Prev IT Trainee @ City Of Toronto | Computer Science Major @ TMU</h3>
+<h3 align="center">Computer Science Graduate  @ TMU</h3>
 
-- 🔭 I’m currently looking  for  **Summer 2025 Internships**
+- 🔭 I’m currently looking  for  ** full time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
